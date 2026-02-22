@@ -1,0 +1,7 @@
+{
+  "name": "Fenga — Fábrica de Diseños AI",
+  "description": "Herramienta de IA para convertir descripciones en renders fotorrealistas de mobiliario y documentación técnica.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
